@@ -20,12 +20,10 @@ sections:
       text: strive to constellate<br>
             dare to love at the crossroads<br>
             reach for the paradigm at dusk<br>
-            <br>
             billowing from the plateau ripped to the bone<br>
             what silver steel would have stained with red clay<br>
             a mahogany portrait from days long past is carried<br>
             with a howl and a sigh.<br>
-            <br>
             walking as a shifter<br>
             sifting the sands of mixed blood<br>
             survival is painted through turquoise abstraction, preliminary love.<br>
