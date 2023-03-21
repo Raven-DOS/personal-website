@@ -35,4 +35,5 @@ first_name: Raven Delfina
 email: "ravenotero@unmalumni.com"
 ---
 Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Her professional work experience and research interests are an interdisciplinary weaving of her rigorous and creative ability to explore, innovate, and perservere in the face of challenge, injustice, and tribulation.
+
 {style="text-align: justify;"}
