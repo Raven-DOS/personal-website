@@ -20,10 +20,12 @@ sections:
       text: strive to constellate<br>
             dare to love at the crossroads<br>
             reach for the paradigm at dusk<br>
+            <br></br>
             billowing from the plateau ripped to the bone<br>
             what silver steel would have stained with red clay<br>
             a mahogany portrait from days long past is carried<br>
             with a howl and a sigh.<br>
+            <br></br>
             walking as a shifter<br>
             sifting the sands of mixed blood<br>
             survival is painted through turquoise abstraction, preliminary love.<br>
@@ -33,6 +35,22 @@ sections:
       title:
       subtitle:
       text: Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.
+  - block: markdown
+    id: section-3
+    content:
+      title: Section 3
+      subtitle: A subtitle
+      text: <b>International Space University</b><br>
+            Master of Space Studies<br>
+            Incoming, 2024<br>
+            <b>University of New Mexico</b><br>
+            Bachelor of Science, Statistics<br>
+            2022
+  - block: tag_cloud
+    content:
+      title: Explore
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Experience
@@ -45,12 +63,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master of Space Studies
-          company: International Space University
-          company_url: 'https://www.isunet.edu'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
           company_logo: org-gc
-          location: France
-          date_start: '2022'
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -58,19 +76,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Bachelor of Science, Statistics
-          company: University of New Mexico
-          company_url: 'https://www.unm.edu'
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
           company_logo: org-x
-          location: New Mexico
-          date_start: '2018'
-          date_end: '2022'
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
-  - block: tag_cloud
-    content:
-      title: Explore
     design:
       columns: '2'
 #  - block: collection
