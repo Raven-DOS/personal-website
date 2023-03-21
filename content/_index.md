@@ -5,34 +5,19 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
-    id: poem
+  - block: about.avatar
+    id: about
     content:
-      title: neomexicana
-      subtitle:
-      text: strive to constellate<br>
-            dare to love at the crossroads<br>
-            reach for the paradigm at dusk<br>
-            <br></br>
-            billowing from the plateau ripped to the bone<br>
-            what silver steel would have stained with red clay<br>
-            a mahogany portrait from days long past is carried<br>
-            with a howl and a sigh.<br>
-            <br></br>
-            walking as a shifter<br>
-            sifting the sands of mixed blood<br>
-            survival is painted through turquoise abstraction, preliminary love.<br>
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text:
   - block: markdown
     id: section-2
     content:
       title:
       subtitle:
-      text: Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.
-  - block: tag_cloud
-    content:
-      title: Explore
-    design:
-      columns: '2'
+      text: Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Her professional experience and research interests are an interdisciplinary weaving of her rigorous and creative ability to explore, innovate, and perservere in the face of challenge, injustice, and tribulation. Interdisciplinary research is the cornerstone of her community scientist journey.
   - block: education
     content:
       title: Education
@@ -75,13 +60,11 @@ sections:
               * Qualitative methodology
     design:
       columns: '2'
-#  - block: about.avatar
-#    id: about
-#    content:
-#      # Choose a user profile to display (a folder name within `content/authors/`)
-#      username: admin
-#      # Override your bio text from `authors/admin/_index.md`?
-#      text:
+  - block: tag_cloud
+    content:
+      title: Explore
+    design:
+      columns: '2'
 #  - block: collection
 #    id: posts
 #    content:
