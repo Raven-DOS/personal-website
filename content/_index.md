@@ -17,7 +17,7 @@ sections:
     content:
       title: neomexicana
       subtitle:
-      text: <p style="text-align: center;">strive to constellate<br>
+      text: strive to constellate<br>
             dare to love at the crossroads<br>
             reach for the paradigm at dusk<br>
             <br>
@@ -28,13 +28,13 @@ sections:
             <br>
             walking as a shifter<br>
             sifting the sands of mixed blood<br>
-            survival is painted through turquoise abstraction, preliminary love.<br></p>
+            survival is painted through turquoise abstraction, preliminary love.<br>
   - block: markdown
     id: section-2
     content:
       title:
       subtitle:
-      text: <p style="text-align: justify;">Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.</p>
+      text: Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.
   - block: experience
     content:
       title: Experience
