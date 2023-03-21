@@ -32,7 +32,7 @@ sections:
     content:
       title:
       subtitle:
-      text: <p style="text-align: justify;">Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.</p>
+      text: Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.
   - block: markdown
     id: section-3
     content:
