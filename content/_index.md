@@ -5,6 +5,14 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: Section 1
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: a text
+    design:
+      columns: '2'
   - block: about.avatar
     id: about
     content:
