@@ -13,25 +13,41 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: markdown
-    id: section-1
+    id: introductory poem
     content:
-      title: neomexicana
-      subtitle: A subtitle
-      text: testing line break 1
-            testing line break 2
-            testing line break 3
+      title:
+      subtitle: neomexicana
+      text: <p style="text-align: center;">strive to constellate
+            <br>dare to love at the crossroads
+            <br>reach for the paradigm at dusk
+            <br>
+            <br>billowing from the plateau ripped to the bone
+            <br>what silver steel would have stained with red clay
+            <br>a mahogany portrait from days long past is carried
+            <br>with a howl and a sigh.
+            <br>
+            <br>walking as a shifter
+            <br>sifting the sands of mixed blood
+            <br>survival is painted through turquoise abstraction, preliminary love.
+            <br></p>
   - block: markdown
     id: section-2
     content:
       title:
-      subtitle: A subtitle
-      text: Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.
+      subtitle:
+      text: <p style="text-align: justify;">Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.</p>
   - block: markdown
     id: section-3
     content:
       title: Section 3
       subtitle: A subtitle
-      text: <b>International Space University</b><br>Master of Space Studies<br>Incoming, 2024
+      text: <p style="text-align: center;"><b>International Space University</b>
+            <br>Master of Space Studies
+            <br>Incoming, 2024
+            <br>
+            <b>University of New Mexico</b>
+            <br>Bachelor of Science, Statistics
+            <br>2022
   - block: tag_cloud
     content:
       title: Explore
