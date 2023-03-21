@@ -5,9 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: test
-<h2> testing basic HTML </h2>
-<p> how does this work? </p>
   - block: about.avatar
     id: about
     content:
