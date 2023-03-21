@@ -15,9 +15,11 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
+      title: neomexicana
       subtitle: A subtitle
-      text: Add any **markdown** formatted content here
+      text: testing line break 1
+            testing line break 2
+            testing line break 3
   - block: markdown
     id: section-2
     content:
@@ -29,7 +31,7 @@ sections:
     content:
       title: Section 3
       subtitle: A subtitle
-      text: <b>International Space University</b> Master of Space Studies
+      text: <b>International Space University</b><br>Master of Space Studies<br>Incoming, 2024
   - block: tag_cloud
     content:
       title: Explore
