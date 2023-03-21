@@ -1,12 +1,11 @@
 ---
 title: Raven Delfina Otero-Symphony
 role: Data Analyst
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Currently exploring applications of the space industry for cultural inclusion, economic empowerment, and climate conservation.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - New Space Ecosystem
+  - Statistics & Data Science
+  - Climatology
 social:
   - icon: github
     icon_pack: fab
@@ -28,10 +27,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Otero-Symphony
 highlight_name: true
-first_name: Alice
+first_name: Raven Delfina
 email: ""
 ---
-Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University. Her research interests include statistical methods, climatology, community health, traditional knowledge, --- 
+Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University. Her professional experience and research interests are an interdisciplinary weaving of her rigorous and creative ability to explore, innovate, and perservere in the face of challenge, injustice, and tribulation.
 {style="text-align: justify;"}
