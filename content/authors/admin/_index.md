@@ -16,6 +16,8 @@ social:
 organizations:
   - name: The University of New Mexico
     url: https://www.unm.edu/
+  - name: International Space University
+    url: https://www.isunet.edu
 education:
   courses:
     - course: Master of Space Studies
