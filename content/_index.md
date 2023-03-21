@@ -18,6 +18,18 @@ sections:
       title: Section 1
       subtitle: A subtitle
       text: Add any **markdown** formatted content here
+  - block: markdown
+    id: section-2
+    content:
+      title:
+      subtitle: A subtitle
+      text: Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Interdisciplinary research is the cornerstone of her community scientist journey.
+  - block: markdown
+    id: section-3
+    content:
+      title: Section 3
+      subtitle: A subtitle
+      text: <b>International Space University</b> Master of Space Studies
   - block: tag_cloud
     content:
       title: Explore
