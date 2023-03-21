@@ -1,6 +1,6 @@
 ---
 title: Raven Delfina Otero-Symphony
-role: Data Analyst
+# role: Data Analyst
 bio: Currently exploring applications of the space industry for cultural inclusion, economic empowerment, and climate conservation.
 interests:
   - New Space Ecosystem
@@ -13,11 +13,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/raven-dos
-organizations:
-  - name: The University of New Mexico
-    url: https://www.unm.edu/
-  - name: International Space University
-    url: https://www.isunet.edu
+# organizations:
+#  - name: The University of New Mexico
+#    url: https://www.unm.edu/
+#  - name: International Space University
+#    url: https://www.isunet.edu
 education:
   courses:
     - course: Master of Space Studies
@@ -27,12 +27,12 @@ education:
       institution: The University of New Mexico
       year: 2022
 superuser: true
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 last_name: Otero-Symphony
 highlight_name: true
 first_name: Raven Delfina
 email: ""
 ---
-Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University. Her professional experience and research interests are an interdisciplinary weaving of her rigorous and creative ability to explore, innovate, and perservere in the face of challenge, injustice, and tribulation.
+Raven Delfina Otero-Symphony is an incoming graduate student at the International Space University and first-generation graduate of The University of New Mexico. Her professional experience and research interests are an interdisciplinary weaving of her rigorous and creative ability to explore, innovate, and perservere in the face of challenge, injustice, and tribulation.
 {style="text-align: justify;"}
